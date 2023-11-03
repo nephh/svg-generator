@@ -42,7 +42,7 @@ This simple SVG generator allows you to create custom SVG shapes. Follow these s
 
 3. Answer the questions presented, and your logo will be generated in the current directory!
 
-You can also find a demo video [here.](https://drive.google.com/file/d/1qi0nMM05-2oQwkP8r4DtZtEiF0iqde3_/view?usp=sharing)
+You can also find a demo video [here.](https://drive.google.com/file/d/1-DfYFy6WYhEQw66Z30R1DlS5X5ByCMBi/view?usp=sharing)
 
 ## Testing
 
